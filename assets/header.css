@@ -1,0 +1,16 @@
+.nav {
+    flex-wrap: nowrap;
+    padding: 0.5rem 3rem;
+    position: sticky;
+    background-color: #101820;
+}
+
+.nav-btn {
+    alignment: center;
+    color: white;
+    background-color: #101820;
+    margin: 0rem 1rem;
+}
+
+
+
